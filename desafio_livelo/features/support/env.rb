@@ -1,7 +1,7 @@
 require 'capybara'
 require 'capybara/cucumber'
 require 'capybara/rspec'
-require 'selenium-webdriver'
+require 'webdrivers'
 require 'site_prism'
 
 Capybara.register_driver :site_prism do |app|
