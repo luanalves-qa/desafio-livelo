@@ -4,8 +4,4 @@ gem 'capybara'
 gem 'cucumber'
 gem 'rspec'
 gem 'webdrivers'
-<<<<<<< HEAD
 gem 'site_prism'
-=======
-gem 'site_prism'
->>>>>>> 22a556139c057ab5bd3a511997a4a330f47e48db
